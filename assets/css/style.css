@@ -1,0 +1,10 @@
+.nav-link {
+    color: #212529;
+}
+.section{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.contact-details li{
+    list-style-type: none;
+}
